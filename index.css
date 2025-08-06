@@ -1,6 +1,8 @@
 body{
     background-image:url(https://cdn.pixabay.com/photo/2025/04/30/04/43/forest-9568429_1280.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
     text-align: center;
     
     margin-top: 80px;
